@@ -207,4 +207,5 @@ public class MainActivity extends AppCompatActivity {
         if (bmi < 25) return getString(R.string.bmi_over);
         return getString(R.string.bmi_obese);
     }
+// Đã kiểm tra lại các phép tính nâng cao
 }
